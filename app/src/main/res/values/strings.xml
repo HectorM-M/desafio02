@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">My Journey</string>
+
+    <!-- Login -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_question">¿No tienes una cuenta?</string>
+    <string name="register_button">Registrarse</string>
+
+    <!-- Registro -->
+    <string name="register_title">Crear cuenta</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="create_account_button">Crear cuenta</string>
+
+    <!-- Catálogo -->
+    <string name="catalog_title">Destinos turísticos</string>
+    <string name="add_destination">Agregar destino</string>
+    <string name="edit_destination">Editar destino</string>
+    <string name="delete_destination">Eliminar destino</string>
+
+    <!-- Destino -->
+    <string name="destination_name_hint">Nombre del destino</string>
+    <string name="country_hint">País</string>
+    <string name="price_hint">Precio del paquete</string>
+    <string name="description_hint">Descripción del viaje</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="save_destination">Guardar destino</string>
+    <string name="update_destination">Actualizar destino</string>
+
+    <!-- Mensajes -->
+    <string name="required_field">Este campo es obligatorio</string>
+    <string name="invalid_price">El precio debe ser mayor a 0</string>
+    <string name="invalid_description">La descripción debe tener al menos 20 caracteres</string>
+    <string name="image_required">Debes seleccionar una imagen</string>
+    <string name="delete_confirmation">¿Estás seguro de que deseas eliminar este destino?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+
+    <string name="passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="account_created">Cuenta creada correctamente</string>
+    <string name="registration_error">Error al crear la cuenta</string>
+    <string name="back_to_login">¿Ya tienes una cuenta?</string>
+    <string name="login_link">Iniciar sesión</string>
+
+
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="login_error">Correo o contraseña incorrectos</string>
+    <string name="selected_image_description">Imagen seleccionada del destino</string>
+    <string name="destination_image_description">Imagen del destino turístico</string>
+
+    //paises
+    <string name="country_select">Selecciona un país</string>
+    <string name="country_el_salvador">El Salvador</string>
+    <string name="country_guatemala">Guatemala</string>
+    <string name="country_mexico">México</string>
+    <string name="country_usa">Estados Unidos</string>
+    <string name="country_canada">Canadá</string>
+    <string name="country_spain">España</string>
+    <string name="country_france">Francia</string>
+    <string name="country_italy">Italia</string>
+    <string name="country_japan">Japón</string>
+    <string name="country_required">Debes seleccionar un país</string>
+
+
+    <string name="destination_saved">Destino guardado correctamente</string>
+    <string name="destination_save_error">No se pudo guardar el destino</string>
+
+    //botones
+    <string name="edit_button">Editar</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="delete_title">Eliminar destino</string>
+    <string name="destination_deleted">Destino eliminado correctamente</string>
+    <string name="destination_delete_error">No se pudo eliminar el destino</string>
+    <string name="destination_updated">Destino actualizado correctamente</string>
+    <string name="destination_update_error">No se pudo actualizar el destino</string>
+
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_confirmation">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="logout_success">Sesión cerrada correctamente</string>
+    <string name="view_cart">Ver carrito</string>
+
+    //carritos
+    <string name="cart_title">Mi carrito</string>
+    <string name="cart_total">Total: $0.00</string>
+    <string name="buy">Comprar</string>
+
+    <string name="add_to_cart">Agregar al carrito</string>
+    <string name="added_to_cart">Destino agregado al carrito</string>
+
+    //pago
+    <string name="buy_confirmation_title">Confirmar compra</string>
+    <string name="buy_confirmation_message">¿Deseas confirmar esta compra?</string>
+    <string name="purchase_success">Compra realizada correctamente</string>
+    <string name="purchase_error">No se pudo completar la compra</string>
+    <string name="empty_cart">El carrito está vacío</string>
+    <string name="purchase_total">Total de la compra: $%1$.2f</string>
+    <string name="purchase_history">Mis compras</string>
+</resources>

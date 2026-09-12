@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499353357748",
+    "project_id": "my-journey-bff9f",
+    "storage_bucket": "my-journey-bff9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499353357748:android:dc0f6498efd0146c4fb6e1",
+        "android_client_info": {
+          "package_name": "com.example.myjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQFdjI1MDHzwF73uw1Mj-Mqt7EnrtKMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

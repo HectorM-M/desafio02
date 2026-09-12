@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MyJourney" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/deep_orange_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:statusBarColor">@color/blue_dark</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+    <style name="Theme.MyJourney" parent="Base.Theme.MyJourney" />
+
+</resources>
